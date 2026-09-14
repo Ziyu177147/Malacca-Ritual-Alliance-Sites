@@ -1,6 +1,5 @@
 # Malacca Ritual Alliance Sites Database
 
-[中文说明](README.zh-CN.md)
 
 ## 1. Introduction
 
