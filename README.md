@@ -1,7 +1,5 @@
 # Malacca Ritual Alliance Sites Database
 
-[中文说明](README.zh-CN.md)
-
 ## 1. Introduction
 
 This repository provides a CSV-based geographical database of religious sites associated with ritual alliances and temple networks in Malacca (Melaka), Malaysia. Centred on Cheng Wah Keong Temple (清华宫), it records site names, coordinates, ritual connections, deities, and contextual notes. The dataset supports mapping and the study of cooperation between temples, religious communities, and local organisations.
